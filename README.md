@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:20/09/2025
+# Date:25/09/2025
 ## Register Number:25016333
 ## Name:Dhanavishni M
 ## Problem Title
@@ -139,8 +139,8 @@ Economic: Reduced input waste, higher productivity, better market access.
 
 Environmental: Sustainable farming with reduced chemical overuse.
 
-
-
+## Flowchart
+<img width="1152" height="648" alt="SIH paint" src="https://github.com/user-attachments/assets/f6ad7cfb-be7f-4e2a-b7e4-f2ff1d8367d2" />
 ## Research and References
 <h3>reserch and referencr</h3>
 NABARD Report (2022): 86% of Indian farmers are small or marginal.
