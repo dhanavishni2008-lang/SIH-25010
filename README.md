@@ -142,7 +142,7 @@ Environmental: Sustainable farming with reduced chemical overuse.
 ## Flowchart
 <img width="1152" height="648" alt="SIH paint" src="https://github.com/user-attachments/assets/f6ad7cfb-be7f-4e2a-b7e4-f2ff1d8367d2" />
 ## Research and References
-<h3>reserch and referencr</h3>
+<h3>research and references</h3>
 NABARD Report (2022): 86% of Indian farmers are small or marginal.
 
 Studies on ICT advisories: Yield increase by 20–30% with digital guidance.
