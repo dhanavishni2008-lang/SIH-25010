@@ -41,27 +41,8 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>solution</h3>
-The solution is a smart, AI-powered advisory platform in the form of a mobile application and chatbot. It integrates soil, weather, crop, and market data to provide real-time, personalized recommendations in farmers’ local languages. Farmers can access text, voice, or image-based support, ensuring inclusivity for low-literate users.
 
-How It Addresses the Problem
-
-Replaces guesswork with data-driven recommendations.
-
-Provides localized advice based on soil type, weather, and crop history.
-
-Reduces chemical misuse by offering balanced fertilizer and pest management insights.
-
-Enhances accessibility through multilingual support and voice-enabled features.
-
-Innovation and Uniqueness
-
-Combines AI-driven crop advisory with native language voice support.
-
-Integrates market intelligence, weather data, and pest detection into a single platform.
-
-Uses farmer feedback loops to continuously improve recommendations.
-
+![alt text](agri.png)
 
 
   
@@ -119,9 +100,6 @@ Enable offline advisory mode with periodic sync.
 
 Conduct community training and demonstrations to build trust.
 
-
-
-  
 ## Impact and Benefits
 <h3>Potential Impact</h3>
 
@@ -141,6 +119,7 @@ Environmental: Sustainable farming with reduced chemical overuse.
 
 ## Flowchart
 <img width="1152" height="648" alt="SIH paint" src="https://github.com/user-attachments/assets/f6ad7cfb-be7f-4e2a-b7e4-f2ff1d8367d2" />
+
 ## Research and References
 <h3>research and references</h3>
 NABARD Report (2022): 86% of Indian farmers are small or marginal.
