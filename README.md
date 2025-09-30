@@ -117,8 +117,6 @@ Economic: Reduced input waste, higher productivity, better market access.
 
 Environmental: Sustainable farming with reduced chemical overuse.
 
-## Flowchart
-<img width="1152" height="648" alt="SIH paint" src="https://github.com/user-attachments/assets/f6ad7cfb-be7f-4e2a-b7e4-f2ff1d8367d2" />
 
 ## Research and References
 <h3>research and references</h3>
