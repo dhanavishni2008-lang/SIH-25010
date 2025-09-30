@@ -118,7 +118,13 @@ Provide voice-based navigation and local language interfaces.
 Enable offline advisory mode with periodic sync.
 
 Conduct community training and demonstrations to build trust.
+Viability
 
+Economic: MVP can be developed within reasonable cost (INR 25–40 lakhs) and sustained via government support, agritech partnerships, and premium services.
+
+Social: Farmers benefit through higher yield, reduced costs, and sustainable practices; multilingual and voice-first features ensure inclusivity.
+
+Scalability: Cloud-native design and multi-channel delivery allow expansion across regions.
 
 
   
